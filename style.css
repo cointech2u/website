@@ -389,7 +389,7 @@ a.stiky-logo {
     color: #69DDCC;
 }
 .banner-content h1 {
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 700;
     color: #fff;
     position: relative;
@@ -827,6 +827,7 @@ span.fill {
     font-weight: 800;
     margin: 20px 0 0;
     line-height: 1;
+    margin-bottom: 30px;
 }
 .about-area.style-two .dreamit-section-content-text p {
     width: 94%;

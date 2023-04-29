@@ -1303,6 +1303,56 @@ img.rotate {
 }
 .banner-content h1 {
     font-size: 43px;
+    margin-top: 150px;
+    text-align: center;
+}
+.banner-content p{
+    text-align: center;
+    width:100%;
+}
+.about-area{
+    padding-top:0px;
+}
+.dreamit-section-main-title h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.banner-button a{
+    width: 100%;
+}
+.about-title h2{
+    color:#232323;
+}
+.dreamit-section-title{
+    text-align: center;
+}
+.dreamit-section-title p{
+    width: 100%;
+}
+.about-button{
+    width: 100%;
+}
+.about-button a{
+    width: 100%;
+    text-align: center;
+}
+.about-content-text p{
+    width: 100%;
+    text-align: center;
+}
+.about-icon{
+    text-align: center;
+}
+.about-title h2{
+    text-align: center;
+    font-size: 35px;
+}
+.about-area .dreamit-section-content-text p{
+    text-align: center;
+}
+.banner-button {
+    width: 100%;
+    text-align: center;
 }
 .header-menu ul li {
     width: 89%;
